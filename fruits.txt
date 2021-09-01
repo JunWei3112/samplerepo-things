@@ -3,3 +3,5 @@ berries
 cherries
 durians
 pineapples
+mangoes
+bananas
