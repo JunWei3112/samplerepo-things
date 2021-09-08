@@ -4,4 +4,3 @@ cherries
 durians
 pineapples
 mangoes
-bananas
